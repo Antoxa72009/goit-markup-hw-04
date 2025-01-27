@@ -341,8 +341,8 @@ address {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.content-ourteam-icon:hover,
-.content-ourteam-icon:focus {
+.social-link:hover,
+.social-link:focus {
     background-color: #404bbf;
 }
 
@@ -359,6 +359,7 @@ address {
     text-decoration: none;
     background-color: #4d5ae5;
     border-radius: 50%;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .ourteam-item-icon{   
@@ -536,8 +537,8 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.content-footer-icon:hover,
-.content-footer-icon:focus {
+.footer-social-link:hover,
+.footer-social-link:focus {
     background-color: #31d0aa;
 }
 
@@ -552,4 +553,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
         align-items: center;
         justify-content: center;
         text-decoration: none;
+        background-color: #4d5ae5;
+        border-radius: 50%;
+        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
