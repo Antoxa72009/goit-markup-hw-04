@@ -272,8 +272,7 @@ address {
 
 .ourteam {
     background: #f4f4fd;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 120px 0;
 }
 
 .ourteam-title {
@@ -334,7 +333,7 @@ address {
 .content-ourteam-icon {
     width: 40px;
     height: 40px;
-    background-color: #4d5ae5;
+    background-color: var(--social-bg-color, #4d5ae5);
     border-radius: 50%;
     display: flex;
     align-items: center;
