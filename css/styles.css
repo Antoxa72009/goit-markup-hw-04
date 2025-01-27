@@ -461,7 +461,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .footer-container {
     display: flex;
-    align-items: flex-start;
+    align-items: baseline;
     gap: 120px;    
 }
 
