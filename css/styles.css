@@ -255,12 +255,11 @@ address {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-top: 8px;
+    color: #2e2f42;    
     margin-bottom: 8px;
 }
 
-.fuatures-item-text {
+.fuatures-item-text {    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -332,12 +331,10 @@ address {
 
 .content-ourteam-icon {
     width: 40px;
-    height: 40px;
-    
+    height: 40px;    
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center;    
 }
 
 .social-link {
@@ -360,8 +357,6 @@ address {
 .content-icon li:first-child .content-ourteam-icon {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-
 
 .ourteam-item-icon{   
     fill: #f4f4fd;
@@ -430,8 +425,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
-    margin-bottom: 8px
+    color: #434455;    
 }
 
 .ourportfolio-cover-wrap{
